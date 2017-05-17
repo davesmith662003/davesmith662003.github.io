@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>my coding journal</title>
+
+  <body>
+
+    <h1> gooooooooooooooooooo</h1>
+    
+  </body>
+
+  </head>
+</html>
